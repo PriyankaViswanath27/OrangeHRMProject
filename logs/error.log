@@ -1,0 +1,31 @@
+config.properties file loaded
+ChromeDriver Instance is created
+WebDriver initialized and Browser Maximized
+This is a Trace message
+This is an error message
+This is a debug message
+This is a fatal message
+This is a warn message
+WebDriver instance is created
+ActionDriver instance is created
+Entered text on Element with name: username--> admin12
+Entered text on Element with name: password--> admin
+clicked an element--->Element with text: Login
+Texts are Matching:Invalid credentialsequalsInvalid credentials
+WebDriver instance is closed.
+ChromeDriver Instance is created
+WebDriver initialized and Browser Maximized
+This is a Trace message
+This is an error message
+This is a debug message
+This is a fatal message
+This is a warn message
+WebDriver instance is created
+ActionDriver instance is created
+Entered text on Element with name: username--> admin
+Entered text on Element with name: password--> admin123
+clicked an element--->Element with text: Login
+Element is displayed Element with text: Admin
+clicked an element--->Element with text: Shalom user
+clicked an element--->Element with text: Logout
+WebDriver instance is closed.
