@@ -1,3 +1,7 @@
 //sample test file is created
+<<<<<<< HEAD
 //adding additional lines of code
 //added additional lines of code
+=======
+
+>>>>>>> a1e3fcc7641167845e3b62d5ab23672a53280c22
